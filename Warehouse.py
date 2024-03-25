@@ -83,7 +83,6 @@ warehouse.add_product('Camera', 2900.0)
 warehouse.add_product('USB Cable', 24.9)
 warehouse.add_product('Mouse', 49.0)
 
-warehouse.sort_by_name()
 
                 
         
